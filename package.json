@@ -1,0 +1,14 @@
+{
+  "name": "layout-flexbox-app",
+  "version": "1.0.0",
+  "description": "App layout for booking-apps",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Jeremias Palpebra",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
